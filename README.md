@@ -24,3 +24,7 @@ cargo tauri dev
 ## Learn more
 
 To edit and change the app you can do so reading both NextJS' website and Tauri's website.
+
+<!--
+NatsukiSubaru
+-->
